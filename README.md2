@@ -1,0 +1,11 @@
+# Aplicação prática: Gerenciamento de tarefas
+
+## Problema
+
+Um sistema de gernenciamento de tarefas precisa processar tarefas
+na  ordem em que forma adicionadas. Uma Fila é a estrutura de dados
+ideal para esse cenário.
+
+## Solução 
+Usaremos uma fila para gerenciar as tarefas, garantido que a primeira
+tarefa adicionada seja a primeira a ser processada.
